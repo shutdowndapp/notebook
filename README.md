@@ -6,12 +6,6 @@
 ## vue2 + vuex + flex + localStorage 本地记事本
 > 项目使用了[vue cli](https://github.com/vuejs/vue-cli) 脚手架，webpack-simple模板,fontawesome图标
 
-### 功能
-类似vue官网的[TodoMVC](https://cn.vuejs.org/v2/examples/todomvc.html)
-
-- 增删事件
-- 本地化存储
-
 ### 在线预览及本地安装
 [点击预览](http://vue-notebook-test.520world.com)
 
@@ -20,6 +14,16 @@
 npm install
 npm run dev
 ```
+
+![演示gif](http://520world.com/wp-content/uploads/2017/02/notebook.gif)
+
+### 功能
+类似vue官网的[TodoMVC](https://cn.vuejs.org/v2/examples/todomvc.html)
+
+- 增删事件
+- 本地化存储
+
+
 	
 
 搜索及编辑功能还未完成，后续会再用上rouer
