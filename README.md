@@ -16,7 +16,7 @@
 [点击预览](http://vue-notebook-test.520world.com)
 
 ```
-//进入文件夹
+//进入文件夹,执行以下命令安装
 npm install
 npm run dev
 ```
